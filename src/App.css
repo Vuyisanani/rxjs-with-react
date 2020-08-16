@@ -1,0 +1,13 @@
+.container {
+    background-color: burlywood;
+    display: grid;
+    /* grid-template-rows: 1fr 2fr 1fr; */
+    grid-template-rows: 1fr 2fr 1fr;
+    grid-gap: 10px;
+}
+
+.hooks-container {
+    background-color: aqua;
+    display: grid;
+    grid-template-rows: 1fr 1fr;
+}
