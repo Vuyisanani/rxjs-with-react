@@ -1,5 +1,10 @@
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
+## Note
+
+It is basically created to teach about the RxJs with React
+If you are keen on also learning about styling in React, here is your chance !
+
 ## Available Scripts
 
 In the project directory, you can run:
